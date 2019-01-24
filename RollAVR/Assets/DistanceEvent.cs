@@ -13,7 +13,10 @@ public class DistanceEvent : TimelineTrigger
 
         foreach (GameObject go in targetObject)
             if (Vector3.Distance(transform.position, go.transform.position) < distanceForEvent)
+            {
+                print("hoi");
                 return true;
+            }
 
         return false;
     }

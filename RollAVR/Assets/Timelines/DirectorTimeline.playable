@@ -110,10 +110,10 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: ControlPlayableAsset
     m_Version: 1
-  - m_Start: 2.833333333332
+  - m_Start: 2.3833333333319997
     m_ClipIn: 0
     m_Asset: {fileID: 114873824918875656}
-    m_Duration: 5.183333333334668
+    m_Duration: 4.958333333333
     m_TimeScale: 1
     m_ParentTrack: {fileID: 114058513401445578}
     m_EaseInDuration: 0
@@ -179,7 +179,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: ControlPlayableAsset
     m_Version: 1
-  - m_Start: 8.883333333333333
+  - m_Start: 8.208333333331666
     m_ClipIn: 0
     m_Asset: {fileID: 114645509163097554}
     m_Duration: 4.958333333333
@@ -248,10 +248,10 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: SwimAway
     m_Version: 1
-  - m_Start: 16.483333333333334
+  - m_Start: 15.808333333331667
     m_ClipIn: 0
     m_Asset: {fileID: 114418072859213504}
-    m_Duration: 4.583333333333
+    m_Duration: 3.416666746139999
     m_TimeScale: 1
     m_ParentTrack: {fileID: 114058513401445578}
     m_EaseInDuration: 0
@@ -317,7 +317,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: SwimBack
     m_Version: 1
-  - m_Start: 13.841666666666333
+  - m_Start: 13.166666666664664
     m_ClipIn: 0
     m_Asset: {fileID: 114831399295117736}
     m_Duration: 2.066666666666668
@@ -443,7 +443,7 @@ MonoBehaviour:
   condition: 0
   markerToJumpTo: 
   markerLabel: 
-  timeToJumpTo: 13.841666
+  timeToJumpTo: 13.166667
   trigger:
     exposedName: 
     defaultValue: {fileID: 0}
@@ -556,12 +556,12 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: "\u21A9 2.833333"
+    m_DisplayName: "\u21A9 2.383333"
     m_Version: 1
-  - m_Start: 2.833333333332
+  - m_Start: 2.3833333333319997
     m_ClipIn: 0
     m_Asset: {fileID: 114757817283387868}
-    m_Duration: 5.050000000001334
+    m_Duration: 4.958333333333
     m_TimeScale: 1
     m_ParentTrack: {fileID: 114478673882158482}
     m_EaseInDuration: 0
@@ -696,7 +696,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: "\u21A9 0"
     m_Version: 1
-  - m_Start: 7.883333333333334
+  - m_Start: 7.341666666665
     m_ClipIn: 0
     m_Asset: {fileID: 114913374650051794}
     m_Duration: 0.7166666666666668
@@ -765,7 +765,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: "\u21A9 2.833333"
     m_Version: 1
-  - m_Start: 15.766666666666667
+  - m_Start: 15.233333333331332
     m_ClipIn: 0
     m_Asset: {fileID: 114272267009623698}
     m_Duration: 0.7166666666666668
@@ -832,9 +832,9 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: "\u21A9 13.84167"
+    m_DisplayName: "\u21A9 13.16667"
     m_Version: 1
-  - m_Start: 21.066666666666336
+  - m_Start: 19.22500007947167
     m_ClipIn: 0
     m_Asset: {fileID: 114227253816321314}
     m_Duration: 0.8833333333333329
@@ -1006,7 +1006,7 @@ MonoBehaviour:
   condition: 3
   markerToJumpTo: 
   markerLabel: 
-  timeToJumpTo: 2.8333333
+  timeToJumpTo: 2.3833334
   trigger:
     exposedName: e9c9060917f8a684593d676569ad23dd
     defaultValue: {fileID: 0}
@@ -1049,7 +1049,7 @@ MonoBehaviour:
   condition: 3
   markerToJumpTo: 
   markerLabel: 
-  timeToJumpTo: 8.883333
+  timeToJumpTo: 8.208333
   trigger:
     exposedName: fa0fbf3df4587144ea8b01a5cd725eaa
     defaultValue: {fileID: 0}
@@ -1162,12 +1162,12 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: "\u21A9 8.883333"
+    m_DisplayName: "\u21A9 8.208333"
     m_Version: 1
-  - m_Start: 8.883333333333333
+  - m_Start: 8.208333333331666
     m_ClipIn: 0
     m_Asset: {fileID: 114251315640174894}
-    m_Duration: 6.883333333333335
+    m_Duration: 7.024999999999666
     m_TimeScale: 1
     m_ParentTrack: {fileID: 114897340916883604}
     m_EaseInDuration: 0
