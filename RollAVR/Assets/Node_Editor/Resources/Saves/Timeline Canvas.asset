@@ -41,17 +41,17 @@ MonoBehaviour:
   - {fileID: 114283504434676160}
   backgroundColor: {r: 0.4716981, g: 0.4716981, b: 0.4716981, a: 1}
   currentTrack: {fileID: 0}
-  test:
-    trigger: {fileID: 0}
-    type: 0
-    targetTrack: {fileID: 0}
   triggers:
   - trigger: {fileID: 0}
     type: 0
-    targetTrack: {fileID: 0}
+    targetTrack:
+      timelineTrack: {fileID: 0}
+      triggers: []
   - trigger: {fileID: 0}
     type: 0
-    targetTrack: {fileID: 0}
+    targetTrack:
+      timelineTrack: {fileID: 0}
+      triggers: []
   inputKnob: {fileID: 114877615571343766}
 --- !u!114 &114258327511398866
 MonoBehaviour:
@@ -70,14 +70,12 @@ MonoBehaviour:
   - {fileID: 114259547931362356}
   backgroundColor: {r: 0.5754717, g: 0.5754717, b: 0.5754717, a: 1}
   currentTrack: {fileID: 0}
-  test:
-    trigger: {fileID: 0}
-    type: 0
-    targetTrack: {fileID: 0}
   triggers:
   - trigger: {fileID: 0}
     type: 0
-    targetTrack: {fileID: 0}
+    targetTrack:
+      timelineTrack: {fileID: 0}
+      triggers: []
   inputKnob: {fileID: 114939006221681926}
 --- !u!114 &114259547931362356
 MonoBehaviour:
@@ -171,7 +169,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   body: {fileID: 114224233765293316}
   direction: 1
-  maxConnectionCount: 0
+  maxConnectionCount: 1
   styleID: System.String
   _connections:
   - {fileID: 114969121596386434}
@@ -192,7 +190,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   body: {fileID: 114258327511398866}
   direction: 1
-  maxConnectionCount: 0
+  maxConnectionCount: 1
   styleID: System.String
   _connections:
   - {fileID: 114535803453935826}
@@ -215,7 +213,7 @@ MonoBehaviour:
   dynamicConnectionPorts: []
   backgroundColor: {r: 0.3962264, g: 0.3962264, b: 0.3962264, a: 1}
   rootTimeline: {fileID: 0}
-  inputKnob: {fileID: 114969121596386434}
+  outputKnob: {fileID: 0}
 --- !u!114 &114969121596386434
 MonoBehaviour:
   m_ObjectHideFlags: 1
